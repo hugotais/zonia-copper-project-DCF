@@ -1,1 +1,1 @@
-**[Download Excel Model (.xlsx)](https://github.com/hugotais/zonia-copper-project-DCF/raw/main/Project_Zonia_Copper.xlsx)**
+https://github.com/hugotais/zonia-copper-project-DCF/raw/main/Project%20Zonia%20Copper.xlsx
