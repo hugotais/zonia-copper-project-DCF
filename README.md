@@ -1,4 +1,4 @@
-# Edge Copper — Zonia Copper Project (NI 43-101 PEA) DCF Valuation Model
+# Edge Copper - Zonia Copper Project (NI 43-101 PEA) DCF Valuation Model
 
 Independent Life-of-Mine (LOM) Discounted Cash Flow valuation model for Edge Copper Corp.’s **Zonia Copper Project** (Arizona, USA), built from first principles using the March 2026 NI 43-101 Preliminary Economic Assessment (PEA).
 
